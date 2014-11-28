@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Azlaan.API", "Azlaan.API\Azlaan.API.csproj", "{33CFE315-3846-4813-9B3A-409A29A9802B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Azlaan.Web", "Azlaan.Web\Azlaan.Web.csproj", "{D2EFD8AA-2258-4B4B-AC6E-52328A84C87E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33CFE315-3846-4813-9B3A-409A29A9802B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33CFE315-3846-4813-9B3A-409A29A9802B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33CFE315-3846-4813-9B3A-409A29A9802B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33CFE315-3846-4813-9B3A-409A29A9802B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2EFD8AA-2258-4B4B-AC6E-52328A84C87E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2EFD8AA-2258-4B4B-AC6E-52328A84C87E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2EFD8AA-2258-4B4B-AC6E-52328A84C87E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2EFD8AA-2258-4B4B-AC6E-52328A84C87E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
